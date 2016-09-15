@@ -16,7 +16,7 @@
     "skipLibCheck": true
   },
   "files": [
-    "app/main.ts"
+    "app/main-static.ts"
   ],
   "angularCompilerOptions": {
     "strictMetadataEmit": true
